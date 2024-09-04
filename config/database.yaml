@@ -1,0 +1,4 @@
+development:
+  url: "sqlite:///dev_database.db"
+production:
+  url: "postgresql://user:password@localhost:5432/prod_database"
